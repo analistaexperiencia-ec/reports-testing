@@ -1,0 +1,5 @@
+{
+  "name": "Corporate Report Generator",
+  "description": "Automated corporate newsletter generator from Google Drive Excel data with real-time editing and PDF export.",
+  "requestFramePermissions": []
+}
